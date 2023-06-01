@@ -6,3 +6,4 @@ const suma = num + num2 + num3;
 alert('La suma es: ' + suma);
 
 //cambios relaciones
+//cambios 2
